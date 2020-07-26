@@ -1,3 +1,7 @@
+This is now included as part of [`lvgui`](https://github.com/mobile-nixos/lvgui). This repository is deprecated.
+
+* * *
+
 Drivers for lvgl
 ================
 
